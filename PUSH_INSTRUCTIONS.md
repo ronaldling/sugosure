@@ -7,16 +7,11 @@
 
 Alternatively, you can use GitHub Desktop to push this repository.
 
-## Completed by Claude
+## Mirroring Progress by Claude
 
-This repository has been set up and the basic structure pushed by Claude on May 16, 2025. The following files have been pushed:
+This repository has been set up and is being populated with files from your local directory by Claude on May 16, 2025. The following files have been pushed so far:
 
-- index.html (simplified version)
-- README.md
-- contact.html
-- blog.html
-- how-it-works.html
-- patient-information.html
-- blog/best-diabetic-diet.html
+- news.html
+- data-protection-policy.html
 
-To push the complete website with all files and directories, please follow the instructions above from your local machine.
+Additional files and directories will be added to complete the mirror of your local directory structure.
