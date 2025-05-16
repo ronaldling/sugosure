@@ -1,1 +1,3 @@
-This is the SugoSure website repository.
+# SugoSure Website
+
+This repository contains the SugoSure website files.
