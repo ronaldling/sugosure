@@ -11,7 +11,10 @@ Alternatively, you can use GitHub Desktop to push this repository.
 
 This repository has been set up and is being populated with files from your local directory by Claude on May 16, 2025. The following files have been pushed so far:
 
+- index.html (updated with complete content)
 - news.html
 - data-protection-policy.html
+- your-questions.html 
+- terms-of-use.html
 
 Additional files and directories will be added to complete the mirror of your local directory structure.
