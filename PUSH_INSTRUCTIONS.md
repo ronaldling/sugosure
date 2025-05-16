@@ -16,5 +16,9 @@ This repository has been set up and is being populated with files from your loca
 - data-protection-policy.html
 - your-questions.html 
 - terms-of-use.html
+- blog.html
+- how-it-works.html
+- patient-information.html
+- contact.html
 
-Additional files and directories will be added to complete the mirror of your local directory structure.
+The mirroring process is being continued to include all files and directories from your local folder structure. We're now working on adding the remaining files such as patient-stories.html, patient.html, physician.html, product-features.html, videos.html, and all the directories with assets.
